@@ -1,6 +1,6 @@
 
-> Open this page at [https://ryangohca.github.io/maze-with-microbit/](https://ryangohca.github.io/maze-with-microbit/)
-> Play this game at https://makecode.microbit.org/_JFtCpVMkhPLa
+> Open this page at [https://ryangohca.github.io/maze-with-microbit/](https://ryangohca.github.io/maze-with-microbit/)  
+>  Play this game at https://makecode.microbit.org/_JFtCpVMkhPLa
 
 ## Use as Extension
 
