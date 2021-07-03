@@ -1,5 +1,5 @@
 {
-    "name": "maze-with-microbit",
+    "name": "Maze With Microbit",
     "version": "0.0.0",
     "description": "",
     "dependencies": {
@@ -19,5 +19,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
